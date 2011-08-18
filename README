@@ -1,0 +1,1 @@
+These are binding function (so called efuns) that will allow access to some of the utility of the PCRE package within the virtual environment provided by the FluffOS driver.
